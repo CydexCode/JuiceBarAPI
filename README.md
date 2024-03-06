@@ -12,7 +12,7 @@ Follow these steps to set up and run the RestaurantAPI:
 } 
 Replace YOUR_SERVER_NAME, YOUR_USERNAME, and YOUR_PASSWORD with your SQL Server details.
 
-3. Code-First Migration Open the Package Manager Console and run the following command to create an initial migration: : Add-Migration InitialCreate
+3. Code-First Migration Open the Package Manager Console and run the following command to create an initial migration: : Add-Migration InitialCreate   0r Add-Migration -Name Initial3 -OutputDir "Data/Migrations"
 
 4. Update Database Apply the migration to update the SQL Server database: Update-Database
 
