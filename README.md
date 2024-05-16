@@ -16,12 +16,14 @@ Follow these steps to set up and run the Restaurant System Backend:
 3. **Code-First Migration: Open the Package Manager Console and run the following command to create an initial migration:
 
    ```json
+   
     Add-Migration -Name Initial3 -OutputDir "Data/Migrations"
 
 4.  **Update Database: Apply the migration to update the SQL Server database:
-5.          
-   ```json
-   Update-Database 
+            
+     ```json
+     
+      Update-Database 
 
 
 5.  **Run the Application: Start the application to ensure everything is set up correctly.
