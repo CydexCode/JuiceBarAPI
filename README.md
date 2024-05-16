@@ -11,7 +11,7 @@ Follow these steps to set up and run the Restaurant System Backend:
      "DevConnection": "Server=CYDEX;Database=RestaurantDB;Trusted_Connection=True;MultipleActiveResultSets=True;"
    }
    
-   ##Replace YOUR_SERVER_NAME, YOUR_USERNAME, and YOUR_PASSWORD with your SQL Server details.
+   Replace YOUR_SERVER_NAME, YOUR_USERNAME, and YOUR_PASSWORD with your SQL Server details.
 
 3. **Code-First Migration: Open the Package Manager Console and run the following command to create an initial migration:
 
