@@ -4,6 +4,8 @@
   <img src="API.png" width="500" height="320" />
 </p>
 
+Demo : https://youtu.be/F4qPKMhbDEw?si=T_UvjkeXKWgeqLOw
+
 Follow these steps to set up and run the Restaurant Management System Backend:
 
 1. **Clone the Repository**
