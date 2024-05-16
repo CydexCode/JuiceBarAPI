@@ -1,10 +1,10 @@
-# Restaurant System Setup Instructions
+# Restaurant Management System Setup Instructions
 
 <p align="center">
   <img src="API.png" width="500" height="320" />
 </p>
 
-Follow these steps to set up and run the Restaurant System Backend:
+Follow these steps to set up and run the Restaurant Management System Backend:
 
 1. **Clone the Repository**
 
