@@ -38,7 +38,7 @@ Follow these steps to set up and run the Restaurant Management System Backend:
       Update-Database 
 
 
-5.  **Run the Application: Start the application to ensure everything is set up correctly.
+5.  **Run the Application:** Start the application to ensure everything is set up correctly.
 <br>
 <br>
 Frontend Instructoin : https://github.com/CydexCode/JuiceBarApplication
