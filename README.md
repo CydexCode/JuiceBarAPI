@@ -11,7 +11,6 @@ Watch the demo [here](https://youtu.be/F4qPKMhbDEw?si=T_UvjkeXKWgeqLOw)
 - **Backend:** .NET Core 8
 - **Database:** SQL Server
 <br>
-
 ## Instructions
 Follow these steps to set up and run the Restaurant Management System Backend:
 
