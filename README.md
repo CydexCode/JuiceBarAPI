@@ -3,13 +3,13 @@
 <p align="center">
   <img src="API.png" width="500" height="320" />
 </p>
-<br>
-Demo : https://youtu.be/F4qPKMhbDEw?si=T_UvjkeXKWgeqLOw
-<br>
-<br>
- Technologies Used <br>
- **Backend:**  .NET Core 8  <br>
- **Database:**  SQL Server  <br>
+
+## Demo
+Watch the demo [here](https://youtu.be/F4qPKMhbDEw?si=T_UvjkeXKWgeqLOw)
+
+## Technologies Used
+- **Backend:** .NET Core 8
+- **Database:** SQL Server
 <br>
 Follow these steps to set up and run the Restaurant Management System Backend:
 
